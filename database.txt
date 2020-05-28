@@ -1,0 +1,3 @@
+Jack,0
+Bobby,1
+Andrew,true
